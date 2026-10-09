@@ -1,0 +1,12 @@
+Book|101|Introduction to C++ Programming|John Smith|2021|1|450|Programming
+Book|102|Data Structures and Algorithms in Practice|Emily Carter|2019|1|620|Computer Science
+Book|103|Modern Software Engineering Principles|David Brown|2023|1|380|Software Engineering
+
+Magazine|201|National Geographic|National Geographic Society|2024|1|3|March
+Magazine|202|Scientific American|Springer Nature|2023|1|12|December
+
+DVD|301|The Imitation Game|Morten Tyldum|2014|0|114|PG-13
+DVD|302|Inception|Christopher Nolan|2010|1|148|PG-13
+
+ResearchPaper|401|AI in Education: Adaptive Learning Systems|M Brown|2022|1|ACM Computing Surveys|10.1234/example001
+ResearchPaper|402|Blockchain Applications in Data Security|L Johnson|2023|1|IEEE Systems Conference|10.5678/example002
